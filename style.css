@@ -36,3 +36,24 @@ body {
   margin-top: 20px;
   margin-left: 15px;
 }
+.profile-info h2 {
+  margin-top: 50px;
+  margin-bottom: 15px;
+}
+.wsf img {
+  height: 60px;
+  margin: 5px;
+}
+.wsf {
+  display: inline-block;
+  width: 28%;
+  padding: 30px 10px;
+  margin: 2%;
+  text-align: center;
+  box-shadow: 0 0 15px 1px rgba(37, 73, 214, 0.18);
+  background-color: efff;
+}
+.wsf small {
+  padding-top: 10px;
+  display: block;
+}
