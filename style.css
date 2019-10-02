@@ -57,3 +57,32 @@ body {
   padding-top: 10px;
   display: block;
 }
+.form-box {
+  margin-top: 30px;
+}
+.input-group input {
+  width: 45%;
+  border: 0;
+  outline: none !important;
+  padding: 10px;
+  margin: 2%;
+  display: inline-block;
+  background: #efff;
+}
+.text-area textarea {
+  width: 95%;
+  border: 0;
+  outline: none !important;
+  padding: 10px;
+  margin: 2%;
+  background: #efff;
+}
+.submit-btn {
+  border: 0;
+  outline: none !important;
+  padding: 10px 20px;
+  margin: 2%;
+  background: #2ab0ff;
+  cursor: pointer;
+  color: #efefef;
+}
